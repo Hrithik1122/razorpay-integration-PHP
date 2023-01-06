@@ -2,6 +2,5 @@
 
 ## Installing
 
-- Clone this repo
-- Unzip the razorpay-php.zip 
-- Edit config.php file there add your Razorpay keyId, keySecret and mysqli Database credential
+* Clone this repositories in htdocs folder
+* Edit config.php file there, Add your Razorpay keyId, keySecret and MySql Database Credential
