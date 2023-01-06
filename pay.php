@@ -1,6 +1,6 @@
 <?php include('include/header.php'); ?>
 
-<title>Demo Razorpay Payment Gateway Integration in PHP</title>
+<title>Razorpay Payment Gateway Integration in PHP</title>
 <?php include('include/container.php');?>
 <div class="container">
 	<div class="row">
